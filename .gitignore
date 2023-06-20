@@ -1,2 +1,2 @@
 data/*.npz
-data/*.csv
+# data/*.csv
